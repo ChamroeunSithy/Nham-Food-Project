@@ -1,4 +1,4 @@
-# flutter_assignment_3
+# Nham Food Project
 
 A new Flutter project.
 
